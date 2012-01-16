@@ -1,0 +1,9 @@
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2012-01-05 22:44:57
+project --topLevelPackage com.aboutweb.qLogix --projectName qLogix --java 6
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2012-01-05 22:44:57
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2012-01-05 22:45:02
+hint
+persistence setup --provider HIBERNATE --database MSSQL 
+hint
+entity --class ~.system.core.crm.entity.Entity --serializable
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2012-01-06 19:00:14

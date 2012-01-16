@@ -1,0 +1,9 @@
+<aspectj>
+<aspects>
+<aspect name="com.aboutweb.qlogix.system.core.crm.entity.Entity_Roo_Serializable"/>
+<aspect name="com.aboutweb.qlogix.system.core.crm.entity.Entity_Roo_Configurable"/>
+<aspect name="com.aboutweb.qlogix.system.core.crm.entity.Entity_Roo_Entity"/>
+<aspect name="com.aboutweb.qlogix.system.core.crm.entity.Entity_Roo_ToString"/>
+</aspects>
+</aspectj>
+
